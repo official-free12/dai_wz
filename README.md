@@ -1,0 +1,6 @@
+# 代付系统/API自动化代付系统/手机APP代付转账/专业自动付款系统/工资代付/资金管理
+
+购买我们的系统赠送三个银行通道（自动化操作代付APP）。具体请联系我们确认！我们代付系统优势如下：① 支持主流银行自动化代付出款，example.com<br>② 采用MYSQL+Redis存储结构，同时可处理上万笔代付订单，准确，不会出现重复处理订单<br>③ 可靠性高，设备与数据服务器之间通信采用Socket通信AES+example.com，传输过程中无法逆向处理.<br>④ 拥有强大的技术服务团队。为您提供完美的技术解决方案。<br>转账代付系统功能如下：1、纯代付系统/api代付系统<br>2、支持银行卡代付，支付宝代付，多级代付服务商<br>3、后台代付操作支持单笔/批量代付操作，支持EXCL导入代付操作<br>4、支持API接口提交代付订单操作<br>5、支持登陆IP白名单和支持谷歌验证码<br>6、系统支持指定派单和自由接单模式<br>功能说明① example.com.支持单笔、批量、example.com，实时查看  example.com<br>example.com<br>example.com<br>example.com<br>本店声明：<br>1、源码来自网络分享，本程序仅供研究使用，请勿用于任何非法用途及商用，您使用本程序造成的责任及风险均与本店及本店店主无任何关系。<br>2、您研究测试本程序时需严格遵守我国法律及规定，不得触碰法律。<br>3、请各位买家朋友测试好、功能完全无误在下单购买。<br>4、请勿用于非法用途，不得违反国家法律，否则后果自负，暂停一切售后服务。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/CiSpI" style="color: red;">https://mega-file.org/CiSpI</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
